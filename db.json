@@ -1,0 +1,9 @@
+{
+  "students": [
+    { "id": 1, "name": "Siddharth", "score": 93 },
+    { "id": 2, "name": "Ansh", "score": 75 },
+    { "id": 3, "name": "Priya Mehta", "score": 95 },
+    { "id": 4, "name": "Carlos Lopez", "score": 67 },
+    { "id": 5, "name": "Anika Sharma", "score": 82 }
+  ]
+}
